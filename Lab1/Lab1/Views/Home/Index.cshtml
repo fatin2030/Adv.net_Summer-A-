@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+   
+
+    <h1>My information</h1>
+
+    @foreach (var item in ViewBag.myInfo)
+    {
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title text-primary">Name: @item.Name</h5>
+                <p class="card-text"><strong>Email:</strong> @item.Email</p>
+                <p class="card-text"><strong>Phone:</strong> @item.Phone</p>
+                <p class="card-text"><strong>Degree:</strong> @item.Degree</p>
+                <p class="card-text"><strong>Expertise:</strong> @item.Expertise</p>
+            </div>
+        </div>
+    }
+
+
+</main>
