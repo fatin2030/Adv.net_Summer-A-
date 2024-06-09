@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Education";
+}
+
+<h2>Education</h2>
+<ol>
+    @foreach (var item in ViewBag.Educations)
+    {
+        <li>
+            @item.Title
+            <ul>
+                <li>@item.Year</li>
+                <li>@item.Group</li>
+                <li>@item.Ins</li>
+            </ul>
+        </li>
+    }
+</ol>
+
+
+
