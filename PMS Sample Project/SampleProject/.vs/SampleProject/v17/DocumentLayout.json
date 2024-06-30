@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adv .net\\SampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\views\\admin\\od.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\admin\\od.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\auth\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\auth\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|e:\\adv .net\\sampleproject\\sampleproject\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\auth\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|E:\\Adv .net\\SampleProject\\sampleproject\\ef\\pms.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B92EEE82-092F-4DFD-AD14-95DFFAC0D8C4}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\ef\\pms.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T20:12:14.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Orders.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Order\\Orders.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Orders.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Order\\Orders.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T23:20:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Order\\Cart.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Order\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T20:35:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:09:53.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:22:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:19:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T23:22:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\User\\Register.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:29:45.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAApwIYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:48:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Od.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Od.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Admin\\Od.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Admin\\Od.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Admin\\Od.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:34:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\OrderDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:07:24.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderProductDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\OrderProductDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\OrderProductDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\OrderProductDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\OrderProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:32:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:51:21.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:43:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:42:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:42:30.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\Customer.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Auth\\Customer.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\Customer.cs",
+              "RelativeToolTip": "SampleProject\\Auth\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:24:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:10:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:08:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:31:25.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SampleProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:31:21.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:42:54.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:50:52.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Auth\\AdminAccess.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\AdminAccess.cs",
+              "RelativeToolTip": "SampleProject\\Auth\\AdminAccess.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:18:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Auth\\Logged.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Auth\\Logged.cs",
+              "RelativeToolTip": "SampleProject\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T21:20:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:46:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "SampleProject\\DTOs\\RegistrationDTO.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "SampleProject\\DTOs\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:10:05.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:46:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PMS.tt",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.tt",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.tt",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.tt",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.tt",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-28T20:28:11.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PMS.edmx.diagram",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.edmx.diagram",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.edmx.diagram",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.edmx.diagram",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T20:28:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PMS.Designer.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Designer.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.Designer.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Designer.cs",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:28:08.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PMS.Context.tt",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Context.tt",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.Context.tt",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Context.tt",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.Context.tt",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-28T20:28:05.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PMS.Context.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Context.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.Context.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.Context.cs",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:28:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\User.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\User.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\User.cs",
+              "RelativeToolTip": "SampleProject\\EF\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:24:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\Product.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Product.cs",
+              "RelativeToolTip": "SampleProject\\EF\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:03:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PMS.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.cs",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:03:52.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\OrderProduct.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\OrderProduct.cs",
+              "RelativeToolTip": "SampleProject\\EF\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:03:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Order.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\Order.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Order.cs",
+              "RelativeToolTip": "SampleProject\\EF\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:03:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Category.cs",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\Category.cs",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\Category.cs",
+              "RelativeToolTip": "SampleProject\\EF\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:02:40.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PMS.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.edmx",
+              "RelativeDocumentMoniker": "SampleProject\\EF\\PMS.edmx",
+              "ToolTip": "E:\\Adv .net\\SampleProject\\SampleProject\\EF\\PMS.edmx [Diagram1]",
+              "RelativeToolTip": "SampleProject\\EF\\PMS.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-28T20:01:00.624Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

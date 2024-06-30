@@ -1,0 +1,11 @@
+﻿@if (TempData["Msg"] != null)
+{
+    <span>@TempData["Msg"]</span>
+}
+
+<div>
+    <a href="/Order" class="btn btn-primary">Products</a>
+    <a href="/Order/Cart" class="btn btn-primary">Cart</a>
+    <a href="/Order/Orders" class="btn btn-primary">Ordered</a>
+</div>
+
