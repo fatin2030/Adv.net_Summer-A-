@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UId" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostContent" Type="String" MaxLength="6000" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="User" Relationship="Model.FK_Posts_Users" FromRole="Post" ToRole="User" />
+    <NavigationProperty Name="Comments" Relationship="Model.FK_Comments_Posts" FromRole="Post" ToRole="Comment" />
+    <NavigationProperty Name="Reactions" Relationship="Model.FK_Reactions_Posts" FromRole="Post" ToRole="Reaction" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="Logtime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Posts" Relationship="Model.FK_Posts_Users" FromRole="User" ToRole="Post" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Uname" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Reactions" Relationship="Model.FK_Reactions_Users" FromRole="User" ToRole="Reaction" />
+  </EntityType>
+  <EntityContainer Name="BlogSite_PracticeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Posts" EntityType="Self.Post" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Posts_Users" Association="Model.FK_Posts_Users">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+    <EntitySet Name="Comments" EntityType="Model.Comment" />
+    <EntitySet Name="Reactions" EntityType="Model.Reaction" />
+    <AssociationSet Name="FK_Comments_Posts" Association="Model.FK_Comments_Posts">
+      <End Role="Post" EntitySet="Posts" />
+      <End Role="Comment" EntitySet="Comments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reactions_Posts" Association="Model.FK_Reactions_Posts">
+      <End Role="Post" EntitySet="Posts" />
+      <End Role="Reaction" EntitySet="Reactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Reactions_Users" Association="Model.FK_Reactions_Users">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Reaction" EntitySet="Reactions" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Posts_Users">
+    <End Type="Model.User" Role="User" Multiplicity="1" />
+    <End Type="Model.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="UId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UId" Type="Int32" Nullable="false" />
+    <Property Name="PId" Type="Int32" Nullable="false" />
+    <Property Name="CommentBody" Type="String" Nullable="false" MaxLength="5000" FixedLength="false" Unicode="false" />
+    <Property Name="CommentTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Post" Relationship="Model.FK_Comments_Posts" FromRole="Comment" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Reaction">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UId" Type="Int32" Nullable="false" />
+    <Property Name="PId" Type="Int32" Nullable="false" />
+    <Property Name="ReactionNumber" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Post" Relationship="Model.FK_Reactions_Posts" FromRole="Reaction" ToRole="Post" />
+    <NavigationProperty Name="User" Relationship="Model.FK_Reactions_Users" FromRole="Reaction" ToRole="User" />
+    <Property Name="DisLikes" Type="Int32" Nullable="false" />
+    <Property Name="Likes" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Comments_Posts">
+    <End Type="Model.Post" Role="Post" Multiplicity="1" />
+    <End Type="Model.Comment" Role="Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="PId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reactions_Posts">
+    <End Type="Model.Post" Role="Post" Multiplicity="1" />
+    <End Type="Model.Reaction" Role="Reaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reaction">
+        <PropertyRef Name="PId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Reactions_Users">
+    <End Type="Model.User" Role="User" Multiplicity="1" />
+    <End Type="Model.Reaction" Role="Reaction" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Reaction">
+        <PropertyRef Name="UId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

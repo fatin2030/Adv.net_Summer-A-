@@ -1,0 +1,48 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_LayoutUser</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+
+        <div class="tcollapse navbar-collapse d-sm-inline-flex justify-content-between">
+            <form action="/Auth/Logout" method="get">
+                <input type="submit" value="Logout" class="btn btn-success" />
+            </form>
+        </div>
+
+        <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+
+            <ul class="navbar-nav flex-grow-1">
+                <li><a href="/Home/Index" class="nav-link">Home</a></li>
+
+                <li>
+                    <a href="/Post/CreatePost" class="nav-link">Create Post</a>
+                </li>
+                <li>
+                    <a href="/Post/ViewPost" class="nav-link">View Posts</a>
+                </li>
+
+                <li> <ul class="navbar-nav flex-grow-1"></li>
+
+
+        </div>
+
+        </nav>  
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+</body>
+</html>

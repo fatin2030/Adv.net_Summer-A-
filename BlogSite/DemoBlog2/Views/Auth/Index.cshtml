@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Index</h2>
+
+@if (TempData["msg"] != null)
+{
+    <h1><span class="alert-success">@TempData["msg"]</span></h1>
+}
+@if (TempData["Msg"] != null)
+{
+    <span class="alert-success">@TempData["Msg"]</span>
+}
+
+@if (TempData["Msg"] != null)
+{
+    <span class="alert-success">@TempData["Msg"]</span>
+}

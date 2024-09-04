@@ -1,0 +1,75 @@
+﻿@model IEnumerable<DemoBlog2.DTOs.PostDTO>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+@if (TempData["msg"] != null)
+{
+    <h1><span class="alert-success">@TempData["msg"]</span></h1>
+}
+
+<h2>Index</h2>
+
+<div class="col-md-9">
+    <div class="row">
+        <!-- Start of the row -->
+        <!-- My Posts -->
+        <div class="col-md-6">
+            <h1>My Posts</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Posts</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="post">
+                                    <a href="Post/EditPost/@item.id"><span class="text-black">@item.Title</span></a>
+                                    <br />
+                                    <form action="/Post/DeletePost/@item.id" method="Post">
+                                        <input type="submit" value="Delete" class="btn btn-danger" />
+                                    </form>
+                                    <br />
+                                    <div>@Html.DisplayFor(modelItem => item.PostContent)</div>
+                                    <div>@Html.DisplayFor(modelItem => item.PostTime)</div>
+                                </div>
+                                <hr />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Recent Posts -->
+        <div class="col-md-6">
+            <h1>Recent Posts</h1>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Content</th>
+                        <th>Posted On</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.recnt)
+                    {
+                        <tr>
+                            <td>@item.Title</td>
+                            <td>@item.PostContent</td>
+                            <td>@item.PostTime.ToString("MM/dd/yyyy HH:mm")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div> <!-- End of the row -->
+</div>
