@@ -1,0 +1,15 @@
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\DAL.dll
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\DAL.pdb
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.dll
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.pdb
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\DAL.dll.config
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\EntityFramework.dll
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\EntityFramework.xml
+E:\Adv .net\NewsAggregator\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.Migrations.INITV1.resources
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\Adv .net\NewsAggregator\DAL\obj\Debug\DAL.Migrations.INITV2.resources

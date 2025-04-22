@@ -1,0 +1,14 @@
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\BLL.dll
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\BLL.pdb
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\DAL.dll
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\DAL.pdb
+E:\Adv .net\NewsAggregator\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Adv .net\NewsAggregator\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Adv .net\NewsAggregator\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\Adv .net\NewsAggregator\BLL\obj\Debug\BLL.dll
+E:\Adv .net\NewsAggregator\BLL\obj\Debug\BLL.pdb
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\AutoMapper.dll
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\EntityFramework.dll
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\DAL.dll.config
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\AutoMapper.xml
+E:\Adv .net\NewsAggregator\BLL\bin\Debug\EntityFramework.xml
