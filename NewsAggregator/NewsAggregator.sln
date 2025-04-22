@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{466F4AD9-B8AD-4C3D-B5C5-BF0E21D6AA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3618A224-7C3E-4E33-973E-30C5D8835107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAggregator", "NewsAggregator\NewsAggregator.csproj", "{BA8985C5-17A4-46D1-8198-A8AB5E3E0E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466F4AD9-B8AD-4C3D-B5C5-BF0E21D6AA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466F4AD9-B8AD-4C3D-B5C5-BF0E21D6AA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466F4AD9-B8AD-4C3D-B5C5-BF0E21D6AA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466F4AD9-B8AD-4C3D-B5C5-BF0E21D6AA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3618A224-7C3E-4E33-973E-30C5D8835107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3618A224-7C3E-4E33-973E-30C5D8835107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3618A224-7C3E-4E33-973E-30C5D8835107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3618A224-7C3E-4E33-973E-30C5D8835107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8985C5-17A4-46D1-8198-A8AB5E3E0E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8985C5-17A4-46D1-8198-A8AB5E3E0E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8985C5-17A4-46D1-8198-A8AB5E3E0E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8985C5-17A4-46D1-8198-A8AB5E3E0E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106061A9-4B71-44F6-9105-84DAD7CC971E}
+	EndGlobalSection
+EndGlobal
